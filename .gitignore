@@ -1,0 +1,109 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+.env
+.venv
+*.egg-info/
+build/
+dist/
+
+# Secrets and configuration files
+*.env
+*.ini
+*.cfg
+*.json
+*.toml
+secrets.yaml
+config.yaml
+
+# Data files
+*.csv
+*.xls
+*.xlsx
+*.json
+*.xml
+*.db
+*.sqlite
+*.log
+data/
+ground_truth/
+processed/
+raw/
+raw_images/
+training_data/
+tessdata_fine_tuned/
+
+# Notebooks
+*.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
+*.out
+*.err
+
+# Binary files
+*.exe
+*.dll
+*.bin
+*.dylib
+*.class
+*.jar
+*.war
+*.apk
+*.crx
+*.o
+*.ko
+*.so
+
+# Archives
+*.zip
+*.tar.gz
+*.7z
+*.rar
+*.gz
+*.bz2
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.ico
+
+# Ignore uploaded documents
+*.pdf
+*.docx
+*.txt
+
+# Miscellaneous
+*.bak
+*.tmp
+*.old
+*.orig
+
+# Node modules
+node_modules/
+
+# Generated files
+*.gen.*
+*.generated.*
